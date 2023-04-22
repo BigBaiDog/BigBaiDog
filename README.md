@@ -18,4 +18,4 @@ https://toukou.tk/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBaiDog&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBaiDog&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBaiDog&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
