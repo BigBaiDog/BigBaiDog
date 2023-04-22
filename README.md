@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 https://toukou.tk/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBaiDog)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBaiDog&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
