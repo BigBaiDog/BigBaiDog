@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://bigbaidog-onedrive.pages.dev/](https://toukou.tk/)
+https://toukou.tk/
