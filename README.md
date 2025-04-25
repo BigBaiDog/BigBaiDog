@@ -10,4 +10,4 @@
   <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/BigBaiDog/BigBaiDog/refs/heads/output/github-contribution-grid-snake.svg)" />
 </picture>
 
-[github-snake.svg](https://raw.githubusercontent.com/BigBaiDog/BigBaiDog/refs/heads/output/github-contribution-grid-snake.svg)
+![github-snake.svg](https://raw.githubusercontent.com/BigBaiDog/BigBaiDog/refs/heads/output/github-contribution-grid-snake.svg)
